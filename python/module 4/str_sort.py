@@ -1,0 +1,5 @@
+s=input("enter string plz : ")
+a=s.split(" ")
+a=set(s)
+b=list(a)
+print(b.sort())

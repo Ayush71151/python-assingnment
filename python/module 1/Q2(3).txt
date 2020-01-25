@@ -1,0 +1,6 @@
+a,b,c,y=4.4,0.0,4.2,3.0
+ans=c+a*y*y/b
+
+sol:-
+=4.2+4.4*3.0*3.0/0.0
+=can't divided by zero
